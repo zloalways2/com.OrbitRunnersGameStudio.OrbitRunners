@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="adc4a990-5c37-412f-8105-5134b07c1641" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/GameManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ScreenShake.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/PlayerController.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../../com.Asteroid.Avoider.arcade/Assets/Scripts/PlayerMovement.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SoundManager.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/SlotMachine.cs" />
+        <option value="$PROJECT_DIR$/BlockSpawner.cs" />
+        <option value="$PROJECT_DIR$/BottomBoundary.cs" />
+        <option value="$PROJECT_DIR$/Block.cs" />
+        <option value="$PROJECT_DIR$/BallController.cs" />
+        <option value="$PROJECT_DIR$/LevelButtonController.cs" />
+        <option value="$PROJECT_DIR$/LevelManager.cs" />
+        <option value="$PROJECT_DIR$/PauseManager.cs" />
+        <option value="$PROJECT_DIR$/SoundManager.cs" />
+        <option value="$PROJECT_DIR$/NewBehaviourScript.cs" />
+        <option value="$PROJECT_DIR$/ScreenShake.cs" />
+        <option value="$PROJECT_DIR$/PlayerController.cs" />
+        <option value="$PROJECT_DIR$/GameManager.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2nIyZDW7kMBQgUfDFHpChQWfeVf" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="adc4a990-5c37-412f-8105-5134b07c1641" name="Default Changelist" comment="" />
+      <created>1728674938981</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1728674938981</updated>
+      <workItem from="1728674941958" duration="1071000" />
+      <workItem from="1728732120946" duration="318000" />
+      <workItem from="1729181102786" duration="1794000" />
+      <workItem from="1729967618285" duration="3092000" />
+      <workItem from="1729987842775" duration="2498000" />
+      <workItem from="1730043595167" duration="5429000" />
+      <workItem from="1730209925979" duration="10777000" />
+      <workItem from="1730238123980" duration="7744000" />
+      <workItem from="1730280027354" duration="368000" />
+      <workItem from="1730285151491" duration="2272000" />
+      <workItem from="1730289978746" duration="5071000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>
